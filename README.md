@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cactuskiller
+- 👋 Hi, I’m daniah
 - 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning Javascript and it's most famous libraries 
 - 💞️ I’m looking to collaborate on ...
